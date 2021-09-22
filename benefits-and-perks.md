@@ -8,11 +8,11 @@ Medical insurance is provided by Anthem Blue Cross Blue Shield. The company pays
 
 ### Dental Insurance
 
-Dental insurance is provided by nthem Blue Cross Blue Shield. The company pays 100% of the premium. Open enrollment is in April every year. The plan covers married couples and families.
+Dental insurance is provided by Anthem Blue Cross Blue Shield. The company pays 100% of the premium. Open enrollment is in April every year. The plan covers married couples and families.
 
 ### Vision Insurance
 
-Vision insurance is provided by nthem Blue Cross Blue Shield. The company pays 100% of the premium. Open enrollment is in April every year. The plan covers married couples and families.
+Vision insurance is provided by Anthem Blue Cross Blue Shield. The company pays 100% of the premium. Open enrollment is in April every year. The plan covers married couples and families.
 
 ### Life Insurance
 
