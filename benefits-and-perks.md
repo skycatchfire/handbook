@@ -32,6 +32,17 @@ To schedule time off:
 2. Add your time off to the shared [PTO calendar](https://calendar.google.com/calendar/b/1?cid=Y18xNHVqOG9sOTloamttMXZjNWtpOGlrZGN0OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 3. Add your time off to the [PTO spreadsheet](https://docs.google.com/spreadsheets/d/1WHRMrQ57liLpu9vSsKXdQIIh-c3U3pzlUCPiFJFaKvo/edit#gid=0).
 
+## Observed Holidays
+
+SKYCATCHFIRE takes the days off between Christmas Day and New Year’s Day as well as the following national holidays:
+
+- New Year's Day
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving Day
+- Christmas Day
+
 ## Personal Leave
 
 If you are under treatment or recovery for a serious medical condition and are unable to work for a week or more because of it, let us know and you can take four weeks off at 100% pay. If after that, you're still unable to work, SKYCATCHFIRE will continue to pay you 50% of your pay until you're better, up to twelve weeks off. These days are an emergency reserve, separate from your vacation/sick time described above. If after this period of time, you still cannot work have a discussion with Ryan to determine a plan.
