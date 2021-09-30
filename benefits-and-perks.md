@@ -90,3 +90,7 @@ Every week, the team adds whatever we might need to [the Instacart order](https:
 ## Workspace Allowance
 
 It's important that you have the tools you need to do your best work. Each employee will be equipped with a MacBook Pro, multiple 4K displays, keyboard, mouse, and a standing desk. If you'd like a particular type of mouse or keyboard or could use something else to improve your workspace, just ask!
+
+## Premium Training Courses
+
+We purchase new training courses regularly for our team to hone their skills and learn new things. Learning is a big part of our work and the company is happy to pay for it. Regardless of the subject, if it's something that could improve your skills or help you in some way, just ask!
