@@ -24,17 +24,15 @@ Short & Long Term Disability coverage is offered by Mutual of Omaha. More inform
 
 ## Paid Time Off
 
-Paid Time Off (PTO) is anything that keeps you from working like a vacation, feeling sick, or just need time away. Employees are encouraged to schedule time off whether it's for travel or just to get things done around the house.
+Our policy for Paid Time Off (PTO) is flexible and unlimited. We believe our employees should be responsible to plan vacations and time off that won't negatively impact the business. PTO is anything that keeps you from working like a vacation, feeling sick, or just need time away. Employees are encouraged to schedule time off whether it's for travel or just to get things done around the house.
 
-Our policy for PTO is very flexible. We believe that our employees should be responsible to plan vacations and time off that won't negatively impact the business.
+Guidelines for PTO:
 
-It's expected that employees take vacations and time off. We don't limit this time per year.
+1. No more than one team member from each team out at a time.
+2. Provide at least one month notice for more than 5 days of PTO.
+3. Confirm that your time off won't negatively impact your projects or the business.
 
-To schedule time off:
-
-1. Confirm that it won't negatively impact your projects by not being available during that time. Consider other team members that might have already scheduled overlapping time off and how that might impact your projects also.
-2. Add your time off to the shared [PTO calendar](https://calendar.google.com/calendar/b/1?cid=Y18xNHVqOG9sOTloamttMXZjNWtpOGlrZGN0OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-3. Add your time off to the [PTO spreadsheet](https://docs.google.com/spreadsheets/d/1WHRMrQ57liLpu9vSsKXdQIIh-c3U3pzlUCPiFJFaKvo/edit#gid=0).
+To schedule time off just add your time off to the [PTO calendar](https://calendar.google.com/calendar/b/1?cid=Y18xNHVqOG9sOTloamttMXZjNWtpOGlrZGN0OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) and the [PTO spreadsheet](https://docs.google.com/spreadsheets/d/1WHRMrQ57liLpu9vSsKXdQIIh-c3U3pzlUCPiFJFaKvo/edit#gid=0).
 
 ## Observed Holidays
 
