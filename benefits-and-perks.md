@@ -16,7 +16,11 @@ Vision insurance is provided by Anthem Blue Cross Blue Shield. The company pays 
 
 ### Life Insurance
 
-SKYCATCHFIRE offers a $50,000 life insurance/AD+D policy to all employees through The Standard. The company pays 100% of the premium. Open enrollment is in April every year.
+SKYCATCHFIRE offers a $50,000 life insurance/AD+D policy to all employees through Mutual of Omaha. The company pays 100% of the premium. Open enrollment is in April every year.
+
+## Disability
+
+Short & Long Term Disability coverage is offered by Mutual of Omaha. More information available in [EASE](https://skycatchfire.ease.com).
 
 ## Paid Time Off
 
