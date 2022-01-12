@@ -5,3 +5,4 @@ Our handbook is a work in progress but something that will continue to evolve ju
 ## Sections
 
 - [Benefits & Perks](https://github.com/skycatchfire/handbook/blob/master/benefits-and-perks.md)
+- [Mac Setup](https://github.com/skycatchfire/handbook/blob/master/mac-setup.md)
