@@ -67,7 +67,7 @@ export PATH="/Applications/MAMP/Library/bin:$PATH"
 - [ ] [Set up PHP path to go to MAMP](https://stackoverflow.com/questions/4145667/how-to-override-the-path-of-php-to-use-the-mamp-path/10653443#10653443)
 - [ ] [Install WP-CLI](https://wp-cli.org/#installing)
 
-# Other
+## Other
 
 Stuff you might want, but don't need for the initial setup.
 
