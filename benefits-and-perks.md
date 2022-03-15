@@ -77,13 +77,17 @@ This program does not have a set expiration date, but the company reserves the r
 
 # Perks
 
-## Summer Fridays
+## Flex Time
 
-During summer, we work a half day on Friday, aka "summer fridays". From May 1 - August 31 we work half day every Friday (9a - 12p). Put in a solid week, wrap up your tasks Friday morning, and then go enjoy the extended weekend. Friday lunch is still on but it's not required.
+Most of us choose to work 9a - 5p each weekday but that's not the most productive time for everyone. As long as it doesn't inconvenience the team, we have no predefined work schedule. Put in an honest day of work, complete your tasks on time, and be available when your team needs you.
 
 ## Friday Lunch
 
-It's tradition that the team goes out somewhere together for lunch every Friday. This typically includes a vote to determine where, some car pooling to get there, and some beers with good conversation.
+It's tradition that those working at HQ go out together for lunch every Friday. This typically includes a vote to determine where, some car pooling to get there, and some beers with good conversation.
+
+## Summer Fridays
+
+During Summer, most of us work a half day on Friday, aka "Summer Fridays". From May 1 - August 31 we work half day every Friday. Put in a solid week, wrap up your tasks Friday morning, and then go enjoy the extended weekend. Friday Lunch is still on but it's not required.
 
 ## Snacks & Office Supplies
 
